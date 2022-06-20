@@ -1,6 +1,6 @@
 # Vite storybook meta env reproduction
 
-Reproduction for <PR link>
+Reproduction for https://github.com/storybookjs/builder-vite/pull/413
 
 ## Instructions
 
